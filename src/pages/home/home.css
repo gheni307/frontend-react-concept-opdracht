@@ -1,0 +1,16 @@
+body{
+    background-color: #fbf4f2;
+}
+
+.sub{
+    width: 70%;
+    height: 1800px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.sub-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

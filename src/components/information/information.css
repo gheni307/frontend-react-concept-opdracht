@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto+Condensed&family=Roboto:wght@300&display=swap');
+
+.informations{
+    width: 33%;
+    float: left;
+}
+
+.information{
+    width: 90%;
+    height: 280px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: self-start;
+    background-color: white;
+    box-shadow: 1px 10px 10px rgba(0.3,0.3,0.3,0.3);
+    padding: 15px;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+.color-subreddit{
+    color: #dd3038;
+}
