@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto+Condensed&family=Roboto:wght@300&display=swap');
+.footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}

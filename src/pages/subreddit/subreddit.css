@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto+Condensed&family=Roboto:wght@300&display=swap');
+.sub-div{
+    margin: 150px;
+
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.sub-div1{
+    margin: 50px;
+}
+
+.but{
+    color: #e7613a;
+}
